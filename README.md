@@ -48,3 +48,23 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 * `Sub_metering_2:` energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 
 * `Sub_metering_3:` energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
+
+#### **Final Output**
+****
+
+**PLOT 1**
+
+[PLOT 1](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot1.png)
+
+**PLOT 2**
+
+[PLOT 2](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot2.png)
+
+**PLOT 3**
+
+[PLOT 3](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot3.png)
+
+**PLOT 4**
+
+[PLOT 4](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot4.png)
+
