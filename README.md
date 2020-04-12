@@ -54,17 +54,17 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 
 **PLOT 1**
 
-[PLOT 1](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot1.png)
+![PLOT 1](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot1.png)
 
 **PLOT 2**
 
-[PLOT 2](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot2.png)
+![PLOT 2](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot2.png)
 
 **PLOT 3**
 
-[PLOT 3](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot3.png)
+![PLOT 3](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot3.png)
 
 **PLOT 4**
 
-[PLOT 4](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot4.png)
+![PLOT 4](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot4.png)
 
