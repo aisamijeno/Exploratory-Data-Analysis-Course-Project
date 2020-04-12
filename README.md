@@ -62,9 +62,9 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 
 **PLOT 3**
 
-![PLOT 3](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot3.png)
+![PLOT 3](https://i.ibb.co/1J1xVC7/plot3.png)
 
 **PLOT 4**
 
-![PLOT 4](/Users/Aisa/Documents/GitHub/datasciencecoursera/Exploratory-Data-Analysis-Course-Project/plot4.png)
+![PLOT 4](https://i.ibb.co/8mrVDFR/plot4.png)
 
