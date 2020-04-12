@@ -1,7 +1,7 @@
 ### **Peer-graded Assignment: Exploratory Data Analysis Course Project 1**
 
 ------
-This repository is a submission of *Aisa Mijeno* for Exploratory Data Analysis course project.
+This repository is a submission of *Aisa Mijeno* for Exploratory Data Analysis course project 1.
 <br>
 
 #### **Project Description**
