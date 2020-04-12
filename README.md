@@ -19,13 +19,13 @@ Description: Measurements of electric power consumption in one household with a 
 ****
 `README.md` - a readme file that explain about the project.
 
-`plot_1.PNG` and `plot1.R` - a PNG and script to generate the file for the first graph.
+`plot1.PNG` and `plot1.R` - a PNG and script to generate the file for the first graph.
 
-`plot_2.PNG` and `plot2.R` - a PNG and script to generate the file for the second graph.
+`plot2.PNG` and `plot2.R` - a PNG and script to generate the file for the second graph.
 
-`plot_3.PNG` and `plot3.R` - a PNG and script to generate the file for the third graph.
+`plot3.PNG` and `plot3.R` - a PNG and script to generate the file for the third graph.
 
-`plot_4.PNG` and `plot4.R` - a PNG and script to generate the file for the fourth graph.
+`plot4.PNG` and `plot4.R` - a PNG and script to generate the file for the fourth graph.
 
 #### **Project Description**
 ****
